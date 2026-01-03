@@ -74,5 +74,7 @@
     }
   ],
   "url": "https://github.com/teawizardry/planescape-compendium",
+  "manifest": "https://github.com/teawizardry/planescape-compendium/releases/latest/download/module.json",
+  "download": "https://github.com/teawizardry/planescape-compendium/releases/latest/download/module.zip",
   "description": ""
 }
